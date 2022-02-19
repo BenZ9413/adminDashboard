@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    padding: 0px;
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    display: flex;
+}
+
+.sidebar {
+    height: 100%;
+    width: 20%;
+    background-color: #0C4A6E;
+}
+
+.rightSide {
+    height: 100%;
+    width: 80%;
+    background-color: #E0F2FE;
+}
+
+.header {
+    height: 40%;
+    width: 100%;
+    background-color: white;
+}
